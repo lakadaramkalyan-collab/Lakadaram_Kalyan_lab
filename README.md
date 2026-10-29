@@ -4,7 +4,7 @@
 
 - **Name:** Lakadaram Kalyan
 - **Registration Number:** 252U1R9084
-- **Section:** CSE-GEN-AI 2B 11
+- **Section:** CSE-GEN-AI 2B 111
 - **Course:** Backend Development Fundamentals
 - **Lab Number:** 01
 
