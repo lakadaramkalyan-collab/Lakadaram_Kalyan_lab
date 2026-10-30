@@ -10,7 +10,7 @@
 
 ## Live Link
 
-**Deployment URL: https://bdf-lab-01.vercel.app
+**Deployment URL: https://bdf-lab-1-dkt5.onrender.com/
 
 ## Objective
 
